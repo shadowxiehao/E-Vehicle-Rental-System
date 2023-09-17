@@ -13,4 +13,8 @@ evss_frontend contains the web end source and one output folder(which can direct
 
 user_end contains the android source code and one apk(which can be installed in android phones)
 
-Some additional documentation can be found in the report document in the reports folder or the documents in the "etc" folder.
+# etc
+
+Additional documentation has also been uploaded to the folder.
+
+In this project, I took on some of the design responsibilities and handled the majority of the backend work. I would like to extend my gratitude to the other participants for their contributions to the project. The participants can be seen at the beginning of the demonstration video.
