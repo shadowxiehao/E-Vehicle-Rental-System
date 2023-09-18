@@ -48,3 +48,7 @@ Comprehensive documentation has been provided to understand the system's archite
 In this project, I was responsible for several design elements and spearheaded most of the backend development. Other contributors and their roles can be identified at the beginning of the [demo video](./demo/demo_video.MP4).
 
 Thank you for exploring the **E-Vehicle Rental System**. We believe it's the future of vehicle rentals!
+
+## history commits
+
+can see [history commits](https://github.com/shadowxiehao/Car_Rental_System_SpringMVC)
