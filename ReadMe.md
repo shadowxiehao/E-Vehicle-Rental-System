@@ -51,4 +51,4 @@ Thank you for exploring the **E-Vehicle Rental System**. We believe it's the fut
 
 ## history commits
 
-can see [history commits](https://github.com/shadowxiehao/Car_Rental_System_SpringMVC)
+see [history commits](https://github.com/shadowxiehao/Car_Rental_System_SpringMVC)
