@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/login_background">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="538dp"
+            android:layout_marginTop="80dp"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="30dp">
+
+            <EditText
+                android:id="@+id/firstname"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="FirstName"
+                android:maxLines="1"
+                android:textColor="#FFFFFF"
+                android:theme="@style/MyEditTextStyle" />
+
+            <EditText
+                android:id="@+id/lastname"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="LastName"
+                android:maxLines="1"
+                android:textColor="#FFFFFF"
+                android:theme="@style/MyEditTextStyle" />
+
+            <EditText
+                android:id="@+id/user_register_email"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:hint="Email"
+                android:maxLines="1"
+                android:textColor="#FFFFFF"
+                android:theme="@style/MyEditTextStyle" />
+
+            <EditText
+                android:id="@+id/register_password"
+                android:layout_width="match_parent"
+                android:layout_height="60dp"
+                android:layout_marginTop="15dp"
+                android:hint="Password"
+                android:maxLines="1"
+                android:textColor="#FFFFFF"
+                android:theme="@style/MyEditTextStyle" />
+
+            <Button
+                android:id="@+id/btn_register"
+                android:layout_width="200dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="30dp"
+                android:text="Register"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btn_register_back"
+                android:layout_width="200dp"
+                android:layout_height="60dp"
+                android:layout_marginTop="10dp"
+                android:text="Back"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

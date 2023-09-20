@@ -1,0 +1,24 @@
+.top_menu_container {
+    /* height: 55px; */
+    display: flex;
+    flex-direction: row;        
+    position: relative;
+
+}
+.top_menu {  
+    position: relative;
+    display: flex;
+    flex-direction: row;        
+    font-size: large;
+    width: 92%;
+    
+}
+
+.top_menu_user {
+    display: flex;
+    flex-direction: row;        
+    position: relative;
+    font-size: large;
+    /* width: 7%; */
+    
+}

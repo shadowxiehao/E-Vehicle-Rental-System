@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">mobilerentproject</string>
+    <string name="title_activity_view_page">ViewPageActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Map</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="location_permission_denied"/>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="notify">Report security issues if the vehicle breaks down, please contact us in time</string>>
+</resources>
